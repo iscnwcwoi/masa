@@ -1,0 +1,77 @@
+    body{
+        background-color: #33ffdd;
+    }
+    #img{
+        position: absolute;
+        top: 32%;
+        height: 60%;
+        width: 85%;
+        left: 8%;
+    }
+    #h1{
+        text-align: center;
+        font-size: 190%;
+        position: absolute;
+        top: 100px;
+        left: 17px;
+    }
+    h1{
+        color: #ff5566;
+        margin: auto;
+        font-size:170%;
+        text-align: center;
+    }
+    #ou{
+        text-align: center;
+        font-size: 100%;
+    }
+    .input{
+        width: 120px;
+        margin: 4px;
+        padding-bottom: 3px; 
+    }
+    #src{
+        position: fixed;
+        left: 20px;
+    }
+    button{
+        font-size: 100%;
+        text-align: center;
+        width: 200px;
+        position: fixed;
+        bottom: 8px;
+        right: 83px;   
+    }
+    #tou{
+        position: fixed;
+        left: 27px;
+        width: 150px;
+    }
+    #saisho{
+        position: fixed;
+        right: 28px;
+        width: 150px;
+    }
+    #cin{
+        font-size: 200%;
+        position: absolute;
+        top: 10%;
+        left: 8%;
+        color: #441211;
+        text-align: center;
+    }
+    .modo{
+        width: 150px;
+        position: absolute;
+        right: 20px;
+    }
+    #susu{
+        width: 150px;
+        position: absolute;
+        left: 20px;
+    }
+    .sain{
+        position: fixed;
+        border-left: 3px;
+    }
+    
